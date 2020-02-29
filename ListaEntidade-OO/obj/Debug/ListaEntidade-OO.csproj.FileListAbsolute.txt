@@ -1,0 +1,6 @@
+C:\Users\Heliton\source\repos\ListaEntidade-OO\ListaEntidade-OO\bin\Debug\ListaEntidade-OO.exe.config
+C:\Users\Heliton\source\repos\ListaEntidade-OO\ListaEntidade-OO\bin\Debug\ListaEntidade-OO.exe
+C:\Users\Heliton\source\repos\ListaEntidade-OO\ListaEntidade-OO\bin\Debug\ListaEntidade-OO.pdb
+C:\Users\Heliton\source\repos\ListaEntidade-OO\ListaEntidade-OO\obj\Debug\ListaEntidade-OO.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\ListaEntidade-OO\ListaEntidade-OO\obj\Debug\ListaEntidade-OO.exe
+C:\Users\Heliton\source\repos\ListaEntidade-OO\ListaEntidade-OO\obj\Debug\ListaEntidade-OO.pdb
